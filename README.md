@@ -1,1 +1,1 @@
-This is vagrant project
+This is my first vagrant project
